@@ -7,7 +7,7 @@
     <Authors>Jose Medrano</Authors>
     <Owners>Blaise Braye</Owners>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <projectUrl>https://github.com/blaise-braye/ChipmunkSharp</projectUrl>
+    <RepositoryUrl>https://github.com/blaise-braye/ChipmunkSharp</RepositoryUrl>
     <Description>ChipmunkSharp is a lightweight physic engine completely written in C# targeting .NET Standart v2.0</Description>
     <PackageTags>chipmunk netcore visualization enginedirectx desktop windows</PackageTags>
     <PackageIcon>logo.png</PackageIcon>
