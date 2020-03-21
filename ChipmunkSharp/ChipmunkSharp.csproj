@@ -1,7 +1,18 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>ChipmunkSharp.netstandard</PackageId>
+    <Version>7.0.1</Version>
+    <VersionSuffix>netstandard</VersionSuffix>
+    <Authors>Jose Medrano</Authors>
+    <Owners>Blaise Braye</Owners>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <projectUrl>https://github.com/blaise-braye/ChipmunkSharp</projectUrl>
+    <Description>ChipmunkSharp is a lightweight physic engine completely written in C# targeting .NET Standart v2.0</Description>
+    <PackageTags>chipmunk netcore visualization enginedirectx desktop windows</PackageTags>
+    <PackageIcon>logo.png</PackageIcon>
   </PropertyGroup>
-
+  <ItemGroup>
+    <None Include="..\logo\logo.png" Pack="true" PackagePath="logo.png" />
+  </ItemGroup>
 </Project>
